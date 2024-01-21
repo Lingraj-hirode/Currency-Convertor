@@ -1,0 +1,97 @@
+/* this program is about DOM and its exaples  */
+
+.dark {
+    background-color: rgb(255, 94, 0);
+    color: white;
+}
+
+.light {
+    background-color: rgb(0, 66, 128);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid black;
+}
+ */
+
+
+/* //////////////////////////////////////////////////// */
+
+/* .content {
+    color: rgb(226, 43, 49);
+}
+
+.newClass {
+    background-color: blue;
+}
+
+/* //////////////////////////////////////////////////// */
+
+/* #box {
+    height: 250px;
+    width: 100px;
+    background-color: rgb(255, 90, 30);
+    color: white;
+    border: 1px solid black;
+} */
+
+/* //////////////////////////////////////////////////// */
+/* .box {
+    height: 90px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 5px;
+    background-color: rgb(255, 0, 55);
+    text-align: center;
+} */
+
+
+/* //////////////////////////////////////////////////// */
+
+/* * {
+    color: rgb(255, 255, 255);
+}
+
+.myclass{
+    background-color: rgb(178, 32, 178);    
+}
+
+h1{
+    background-color: green;    
+}
+
+
+h4{
+    background-color: rgb(238, 0, 255);
+}
+body{
+    background: lightcoral;
+}
+
+#myid{
+    background-color: rgb(4, 0, 128);
+}
+
+p{
+    background-color: rgb(43, 226, 61);
+} */
